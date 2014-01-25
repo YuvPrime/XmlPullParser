@@ -1,3 +1,6 @@
+/**
+ * author: Timothy
+ */
 package com.example.usatodayxmlparser;
 
 public class UsaTodayFeed {

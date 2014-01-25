@@ -1,3 +1,7 @@
+/**
+ * author: Timothy
+ */
+
 package com.example.usatodayxmlparser;
 
 import java.io.IOException;
