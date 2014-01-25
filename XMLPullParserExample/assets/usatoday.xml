@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0"
+    xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005"
+    version="2.0" >
+
+    <channel>
+
+        <cf:treatAs>
+list
+        </cf:treatAs>
+
+        <title>
+USATODAY.com Feed
+        </title>
+
+        <link>
+http://www.usatoday.com
+        </link>
+
+        <description>
+http://www.usatoday.com
+        </description>
+
+        <language>
+en-us
+        </language>
+
+        <copyright>
+Copyright 2014, USATODAY.COM, USA TODAY
+        </copyright>
+
+        <lastBuildDate>
+Sat, 25 Jan 2014 09:18:26 GMT
+        </lastBuildDate>
+
+        <image>
+
+            <title>
+USATODAY.com
+            </title>
+
+            <width>
+135
+            </width>
+
+            <height>
+20
+            </height>
+
+            <link>
+http://www.usatoday.com
+            </link>
+
+            <url>
+http://i.usatoday.net/_common/_images/usatodaycom_135x20.gif
+            </url>
+        </image>
+
+        <cf:listinfo>
+
+            <cf:sort
+                data-type="date"
+                default="false"
+                element="pubDate"
+                label="Date/Time Order" />
+
+            <cf:sort
+                data-type="text"
+                default="false"
+                element="title"
+                label="Title Order" />
+        </cf:listinfo>
+
+        <atom10:link
+            xmlns:atom10="http://www.w3.org/2005/Atom"
+            href="http://rssfeeds.usatoday.com/usatoday-NewsTopStories"
+            rel="self"
+            type="application/rss+xml" />
+
+        <feedburner:info uri="usatoday-newstopstories" />
+
+        <atom10:link
+            xmlns:atom10="http://www.w3.org/2005/Atom"
+            href="http://pubsubhubbub.appspot.com/"
+            rel="hub" />
+
+        <item>
+
+            <title>
+Judge: Woman at center of tragedy can leave psych ward
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/umEeCExfdRc/
+            </link>
+
+            <pubDate>
+Fri, 24 Jan 2014 08:57:42 GMT
+            </pubDate>
+
+            <description>
+Judge ordered Christina Chumacher be allowed to leave health center at once.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=umEeCExfdRc:NMOIsUN7q4A:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=umEeCExfdRc:NMOIsUN7q4A:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=umEeCExfdRc:NMOIsUN7q4A:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/umEeCExfdRc" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/nation/2014/01/24/christina-schumacher-gunnar-ludwig/4851231/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/nation/2014/01/24/christina-schumacher-gunnar-ludwig/4851231/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+Suspect charged with murder in S.C. campus shooting
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/3cPW0HlC_10/
+            </link>
+
+            <pubDate>
+Sat, 25 Jan 2014 04:35:22 GMT
+            </pubDate>
+
+            <description>
+Justin Bernard Singleton, 19, charged with murder in the death Brandon Robinson, 20.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=3cPW0HlC_10:9ivQPWKwtaY:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=3cPW0HlC_10:9ivQPWKwtaY:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=3cPW0HlC_10:9ivQPWKwtaY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/3cPW0HlC_10" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/nation/2014/01/25/sc-university-shooting-arrest/4877505/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/nation/2014/01/25/sc-university-shooting-arrest/4877505/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+Rival rallies mark third anniversary of Egypt uprising
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/Zy-h18g8VSk/
+            </link>
+
+            <pubDate>
+Sat, 25 Jan 2014 07:07:41 GMT
+            </pubDate>
+
+            <description>
+The rallies raise fears of more violence a day after a string of deadly blasts shook Cairo.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=Zy-h18g8VSk:H9ieRrik3do:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=Zy-h18g8VSk:H9ieRrik3do:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=Zy-h18g8VSk:H9ieRrik3do:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/Zy-h18g8VSk" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/world/2014/01/25/egypt-cairo-uprising-anniversary/4882263/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/world/2014/01/25/egypt-cairo-uprising-anniversary/4882263/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+Strong earthquake rocks Indonesia's Java island
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/-DHgGrWo8SE/
+            </link>
+
+            <pubDate>
+Sat, 25 Jan 2014 01:34:21 GMT
+            </pubDate>
+
+            <description>
+6.1-magnitude quake reportedly had no potential to trigger a tsunami.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=-DHgGrWo8SE:HyLFRfWcJWY:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=-DHgGrWo8SE:HyLFRfWcJWY:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=-DHgGrWo8SE:HyLFRfWcJWY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/-DHgGrWo8SE" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/world/2014/01/25/earthquake-indonesia-java-island/4869621/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/world/2014/01/25/earthquake-indonesia-java-island/4869621/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+Around the world in 180 characters
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/_ESaTNk_MOM/
+            </link>
+
+            <pubDate>
+Sat, 25 Jan 2014 12:09:56 GMT
+            </pubDate>
+
+            <description>
+USA TODAY's bite-sized look at the past week's top stories from around the world.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=_ESaTNk_MOM:voCceeckZqg:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=_ESaTNk_MOM:voCceeckZqg:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=_ESaTNk_MOM:voCceeckZqg:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/_ESaTNk_MOM" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/world/2014/01/25/around-the-world/4822267/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/world/2014/01/25/around-the-world/4822267/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+No victory in war on poverty in eastern Kentucky
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/InU8Jb6tIc0/
+            </link>
+
+            <pubDate>
+Sat, 25 Jan 2014 06:03:20 GMT
+            </pubDate>
+
+            <description>
+Fifty-year campaign shows strengths and limitations of government programs.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=InU8Jb6tIc0:WtgHBY_vMcI:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=InU8Jb6tIc0:WtgHBY_vMcI:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=InU8Jb6tIc0:WtgHBY_vMcI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/InU8Jb6tIc0" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/nation/2014/01/25/war-on-poverty-50th-anniversary/4326109/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/nation/2014/01/25/war-on-poverty-50th-anniversary/4326109/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+8 confirmed dead in Quebec fire, about 30 missing
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/UivyRbgHSSg/
+            </link>
+
+            <pubDate>
+Sat, 25 Jan 2014 01:06:08 GMT
+            </pubDate>
+
+            <description>
+Friends and relatives of some 30 missing people await word as search continues after blaze.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=UivyRbgHSSg:UJG8MJc8pcg:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=UivyRbgHSSg:UJG8MJc8pcg:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=UivyRbgHSSg:UJG8MJc8pcg:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/UivyRbgHSSg" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/world/2014/01/25/quebec-fire-retirement-home/4868023/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/world/2014/01/25/quebec-fire-retirement-home/4868023/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+White House: 3 million signed up on health exchanges
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/LSvvQ-Jt-uE/
+            </link>
+
+            <pubDate>
+Fri, 24 Jan 2014 08:55:16 GMT
+            </pubDate>
+
+            <description>
+The announcement comes days before the State of the Union Address.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=LSvvQ-Jt-uE:Nd27NZFTD0U:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=LSvvQ-Jt-uE:Nd27NZFTD0U:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=LSvvQ-Jt-uE:Nd27NZFTD0U:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/LSvvQ-Jt-uE" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/politics/2014/01/24/government-private-plans-health-care-obamacare/4840253/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/politics/2014/01/24/government-private-plans-health-care-obamacare/4840253/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+Judge orders brain-dead pregnant woman off life support
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/Sk8WgAdQiTo/
+            </link>
+
+            <pubDate>
+Fri, 24 Jan 2014 05:36:43 GMT
+            </pubDate>
+
+            <description>
+Judge said Marlise Munoz is 'deceased' and therefore law cited by hospital does not apply.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=Sk8WgAdQiTo:9LbyXSzgRMw:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=Sk8WgAdQiTo:9LbyXSzgRMw:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=Sk8WgAdQiTo:9LbyXSzgRMw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/Sk8WgAdQiTo" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/nation/2014/01/24/munoz-pregnant-brain-dead-life-support/4839839/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/nation/2014/01/24/munoz-pregnant-brain-dead-life-support/4839839/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+Egypt bombing damages Islamic art museum
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/XrGzW3tZqoc/
+            </link>
+
+            <pubDate>
+Sat, 25 Jan 2014 01:22:14 GMT
+            </pubDate>
+
+            <description>
+A car bombing wreaked havoc on Cairo's renowned Islamic Art Museum.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=XrGzW3tZqoc:ZXHdyJlMznI:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=XrGzW3tZqoc:ZXHdyJlMznI:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=XrGzW3tZqoc:ZXHdyJlMznI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/XrGzW3tZqoc" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/world/2014/01/25/egypt-bomb-art-museum/4868969/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/world/2014/01/25/egypt-bomb-art-museum/4868969/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+Legal hurdles ahead for N.J. bridge probe
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/MklOK4YwY3k/
+            </link>
+
+            <pubDate>
+Sat, 25 Jan 2014 12:16:38 GMT
+            </pubDate>
+
+            <description>
+The U.S. Supreme Court has narrowed the scope of the political corruption law.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=MklOK4YwY3k:xk99q8KZLGQ:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=MklOK4YwY3k:xk99q8KZLGQ:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=MklOK4YwY3k:xk99q8KZLGQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/MklOK4YwY3k" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/politics/2014/01/25/legal-hurdles-ahead-for-nj-bridge-probe/4865007/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/politics/2014/01/25/legal-hurdles-ahead-for-nj-bridge-probe/4865007/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+High court grants exemption from birth control mandate
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/f9rV0vHgqks/
+            </link>
+
+            <pubDate>
+Fri, 24 Jan 2014 04:30:45 GMT
+            </pubDate>
+
+            <description>
+Justices agreed to exempt a religious group from the health law's contraception mandate.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=f9rV0vHgqks:cVEE1LhmsGs:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=f9rV0vHgqks:cVEE1LhmsGs:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=f9rV0vHgqks:cVEE1LhmsGs:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/f9rV0vHgqks" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/politics/2014/01/24/supreme-court-health-contraception-mandate-obama/4340287/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/politics/2014/01/24/supreme-court-health-contraception-mandate-obama/4340287/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+Haiti PM pursues investors at Davos
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/gi9sK2z-MEA/
+            </link>
+
+            <pubDate>
+Fri, 24 Jan 2014 05:16:16 GMT
+            </pubDate>
+
+            <description>
+Haitian prime minister aims to ensure Haiti is not forgotten in financial world.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=gi9sK2z-MEA:BBAn-dR0n2A:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=gi9sK2z-MEA:BBAn-dR0n2A:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=gi9sK2z-MEA:BBAn-dR0n2A:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/gi9sK2z-MEA" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/world/2014/01/24/davos-world-economic-forum-haiti-prime-minister-laurent-lamothe/4837647/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/world/2014/01/24/davos-world-economic-forum-haiti-prime-minister-laurent-lamothe/4837647/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+AP says Zimmerman painting is copy of AP photo
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/6xZaVuSVkvo/
+            </link>
+
+            <pubDate>
+Fri, 24 Jan 2014 06:46:25 GMT
+            </pubDate>
+
+            <description>
+The Associated Press is demanding Zimmerman halt the sale of one of his paintings, saying its a copy.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=6xZaVuSVkvo:RsUJAsR5o20:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=6xZaVuSVkvo:RsUJAsR5o20:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=6xZaVuSVkvo:RsUJAsR5o20:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/6xZaVuSVkvo" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/nation/2014/01/24/ap-zimmerman-painting-copy/4843775/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/nation/2014/01/24/ap-zimmerman-painting-copy/4843775/
+            </feedburner:origLink>
+        </item>
+
+        <item>
+
+            <title>
+File-sharing network key in chief's child porn arrest
+            </title>
+
+            <link>
+http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/CFhIXgFXXxM/
+            </link>
+
+            <pubDate>
+Fri, 24 Jan 2014 11:28:08 GMT
+            </pubDate>
+
+            <description>
+Investigators traced the pornography to the Mount Pleasant, N.Y., police chief's computer.&lt;div class="feedflare"&gt;
+&lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=CFhIXgFXXxM:_G_RQTOIMMo:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?i=CFhIXgFXXxM:_G_RQTOIMMo:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rssfeeds.usatoday.com/~ff/usatoday-NewsTopStories?a=CFhIXgFXXxM:_G_RQTOIMMo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/usatoday-NewsTopStories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/usatoday-NewsTopStories/~4/CFhIXgFXXxM" height="1" width="1"/&gt;
+            </description>
+
+            <guid
+                isPermaLink="false"
+                isPermalink="true" >
+http://www.usatoday.com/story/news/nation/2014/01/24/file-sharing-network-key-to-child-porn-arrest/4861359/
+            </guid>
+
+            <feedburner:origLink>
+http://www.usatoday.com/story/news/nation/2014/01/24/file-sharing-network-key-to-child-porn-arrest/4861359/
+            </feedburner:origLink>
+        </item>
+    </channel>
+
+</rss>
