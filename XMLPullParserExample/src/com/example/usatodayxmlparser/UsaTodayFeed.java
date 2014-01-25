@@ -41,6 +41,6 @@ public class UsaTodayFeed {
 	}
 	@Override
     public String toString() {
-        return title;
+        return title + "\n" + url;
     }
 }
